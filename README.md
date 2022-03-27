@@ -1,6 +1,6 @@
 # ashworth2016_ecell3
 
-lipid metabolic zonation model on E-Cell3 converted from Ashworth model(Ashworth et al., 2016)
+Lipid metabolic zonation model on E-Cell3 converted from Ashworth model(Ashworth et al., 2016)
 
 About [E-Cell3](https://www.e-cell.org/projects/ecell3.html)
 
